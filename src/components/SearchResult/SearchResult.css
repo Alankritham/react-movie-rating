@@ -1,0 +1,15 @@
+.Search-link{
+    text-decoration: none;
+    color:aliceblue;
+    background: brown;
+    padding:4px;
+    border: 1px 
+}
+.Search-surround{
+    border-radius: 29px;
+    background: beige;
+    width: 70%;
+    border: 1px solid lightgrey;
+    margin: 15px auto;
+    opacity: 0.8;
+}

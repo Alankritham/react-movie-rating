@@ -1,7 +1,10 @@
 .App {
-  height:100em;
+  width:95%;
+  border:1px solid lightgrey;
+  margin:auto;
+  margin-top:2%;
   text-align: center;
-  background-color: #222
+  background-color: #fff;
 }
 
 .App-logo {
@@ -12,7 +15,9 @@
 .App-header {
   height: 150px;
   padding: 20px;
-  color: white;
+  color: rgb(134, 32, 32);
+  opacity: 0.8;
+  font-family: x-locale-heading-primary,zillaslab,Palatino,"Palatino Linotype",x-locale-heading-secondary,serif;
 }
 
 .App-title {
@@ -24,11 +29,13 @@
 }
 
 h3{
-  color:white;
+  color:#83d0f2;
 }
 
 .Search-bar{
-  margin-top:10em;
+  margin:2px;
+  margin-top:1em;
+  margin-bottom: 1em;
   border:1px solid gray;
   border-radius: 20px;
   padding-left:1.5em;
@@ -39,7 +46,3 @@ h3{
 
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}

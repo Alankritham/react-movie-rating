@@ -1,0 +1,45 @@
+.return{
+    text-decoration: none;
+    padding:5px;
+    border:1px solid brown;
+    background: brown;
+    color:white;
+}
+.title{
+    font-family: x-locale-heading-primary,zillaslab,Palatino,"Palatino Linotype",x-locale-heading-secondary,serif;
+    font-size: 30px; 
+    margin:15px;  
+    font-weight: bold; 
+    color: brown;
+    opacity: 0.8;
+}
+.ratings{
+    font-size: 20px;
+    border: 1px solid lightgray;
+    padding: 5px;
+    color: brown;
+}
+.left{
+    width:20%;
+    padding:15px;
+    margin-bottom:10px;
+}
+.right{
+    width:75%;
+    float: right;
+    font-size: 18px;
+    /* border: 1px solid lightgray; */
+    padding: 5px;
+    color: black;
+    margin:5px;
+    opacity: 0.7;
+    font-family: x-locale-heading-primary,zillaslab,Palatino,"Palatino Linotype",x-locale-heading-secondary,serif;
+}
+.move-back{
+    margin:20px;
+    opacity: 0.8;
+}
+
+.main-tag{
+    color: cornflowerblue;;
+}

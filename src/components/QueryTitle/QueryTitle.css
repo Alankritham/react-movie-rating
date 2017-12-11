@@ -1,0 +1,8 @@
+.Search-result{
+    width:60%;
+    text-align: left;
+    padding:10px;
+    color: rgb(134, 32, 32);
+    opacity: 0.8;
+    font: italic;
+}
